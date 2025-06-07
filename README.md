@@ -42,11 +42,7 @@ The research identifies several excellent platforms:
 - **USA Learns**: Structured progression with multilingual support
 - **EngVid**: Professional video tutorials for systematic learning
 
-## 📁 Repository Structure
-
-```
-├── README.md                                          # This file - project overview
-└── english-learning-analysis/                        # Content on the 'english-learning-analysis' branch
+> **Note:** If you encounter references to `snake_case` variables in scripts or documentation, these refer to variable naming conventions used in supplementary scripts or analysis files, not in the learning platforms themselves.
     └── english-learning-for-thai-speakers-analysis.md # Detailed research report
 ```
 
@@ -95,8 +91,16 @@ git checkout english-learning-analysis
 
 ## 📝 Contributing
 
-This research represents a snapshot of available resources as of the research date. Platforms and their features may change over time. If you notice updates or have additional recommendations, contributions are welcome.
+## 🗓️ Research Timeline
 
+> **Note:** The following dates are planned milestones for this project. Actual completion dates may vary.
+
+- **Planned Data Collection:** December 2024
+- **Repository Creation:** June 2025
+- **Initial Analysis Release:** July 2025
+- **Ongoing Updates:** As new resources are identified and evaluated
+
+If you are viewing this repository before these dates, please note that the research and analysis are still in progress.
 ## 🎯 Target Audience
 
 - Thai speakers at basic English proficiency level
