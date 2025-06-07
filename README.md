@@ -4,6 +4,20 @@
 
 This repository contains comprehensive research and analysis of the best free English learning resources specifically designed for Thai speakers at a basic level. The project focuses on identifying interactive, web-based platforms that provide effective language learning experiences without cost barriers.
 
+## 🗂️ Table of Contents
+
+- [🎯 Project Overview](#-project-overview)
+- [📚 What's Inside](#-whats-inside)
+- [🌟 Top Recommendations](#-top-recommendations)
+- [📁 Repository Structure](#-repository-structure)
+- [🔍 Research Methodology](#-research-methodology)
+- [📊 Evaluation Criteria](#-evaluation-criteria)
+- [🚀 How to Use This Research](#-how-to-use-this-research)
+- [📈 Learning Path Suggestions](#-learning-path-suggestions)
+- [🔗 Quick Access](#-quick-access)
+- [📝 Contributing](#-contributing)
+- [🎯 Target Audience](#-target-audience)
+
 ## 📚 What's Inside
 
 ### Research & Analysis
@@ -32,7 +46,7 @@ The research identifies several excellent platforms:
 
 ```
 ├── README.md                                          # This file - project overview
-└── english-learning-analysis/                        # Analysis branch
+└── english-learning-analysis/                        # Content on the 'english-learning-analysis' branch
     └── english-learning-for-thai-speakers-analysis.md # Detailed research report
 ```
 
@@ -79,13 +93,6 @@ To view the detailed analysis:
 git checkout english-learning-analysis
 ```
 
-## 🗓️ Research Timeline
-
-- **Data Collection**: December 2024
-- **Analysis Completion**: December 2024
-- **Last Verification**: Current as of research date
-- **Repository Created**: June 2025
-
 ## 📝 Contributing
 
 This research represents a snapshot of available resources as of the research date. Platforms and their features may change over time. If you notice updates or have additional recommendations, contributions are welcome.
@@ -99,4 +106,4 @@ This research represents a snapshot of available resources as of the research da
 
 ---
 
-*This project follows systematic research methodology and maintains coding conventions with snake_case variables and comprehensive documentation practices.*
+*This project follows systematic research methodology and maintains comprehensive documentation practices.*
